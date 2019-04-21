@@ -1,7 +1,7 @@
 # WordBuzz
 Date of Last Revision: 20/10/18
 
-1. What type of information does UrbanWalls collect?
+1. What type of information does WordBuzz collect?
 We are not collecting any user information like username/email.
 
 2. Third Party Advertisers.
