@@ -1,4 +1,4 @@
-# WordBuzz
+# WordBuzz v1.4
 <h3>Date of Last Revision: 22/04/19</h3>
 
 <strong>1. What type of information does WordBuzz collect?</strong>
